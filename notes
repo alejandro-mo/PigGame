@@ -1,0 +1,5 @@
+DOM  is used to connect webpages to scripts like JavaScript
+For each HTML box, there is an object in the DOM that we can access and interact with.
+JavaScript and DOM two different things. 
+Math.random produces a random number and if you multiply it for example Math.random * 6 will produce only numbers bettween 0 and 6 
+Math.floor takes out the decimal of your number
